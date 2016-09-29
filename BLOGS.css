@@ -1,0 +1,25 @@
+body {
+	background: #FFFFFF;
+}
+
+h1 {
+	color: #999999;
+	font-family: "Tahoma", Times, serif;
+	font-size: 20px;
+}
+
+p {
+	font-family: "Tahoma", Times, serif;
+	font-size: 11px;
+} 
+
+a:link { 
+	color: #000000;
+	text-decoration: none;
+}
+a:visited { 
+	color: #666666;
+} 
+a:active { 
+	color: #FF0000;
+} 
