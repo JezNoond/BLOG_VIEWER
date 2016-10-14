@@ -1,9 +1,4 @@
 
-  function ThomasH() {
-    myWindow = window.open("https://tomhgamesblog.blogspot.co.uk/", "", "left=384, top=96, width=1280, height=768");  // Opens a new window
-}
-
-
 <!--
 function D_J_O()
 {
@@ -51,3 +46,10 @@ parent.sub_menu.location="FDA_DIGITAL_DESIGN_BLOGS.htm";
 parent.main.location="blank.htm";
 }
 //-->
+
+$(document).ready(function() {
+$('.popup').click(function(event) {
+    window.open($(this).attr("href"), "popupWindow", "left=280, top=90, width=1280, height=768,scrollbars=yes");
+    return false;
+ });
+});
