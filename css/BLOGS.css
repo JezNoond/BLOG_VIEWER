@@ -1,0 +1,45 @@
+body {
+	background: #FFFFFF;
+}
+.right {
+	text-align: right;
+	padding-left: 10px;
+}
+
+.background {
+		height: 0;
+    padding: 0; /* remove any pre-existing padding, just in case */
+    padding-bottom: 62%; /* for a 4:3 aspect ratio */
+  	background-image: url(../images/blogs.jpg);
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+
+
+}
+
+h1 {
+	color: #999999;
+	font-family: "Tahoma", Times, serif;
+	font-size: 16px;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+p {
+	font-family: "Tahoma", Times, serif;
+	font-size: 11px;
+	line-height: 1.2rem;
+}
+
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #666666;
+}
+a:active {
+	color: #FF0000;
+}
