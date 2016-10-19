@@ -3,8 +3,8 @@
 function D_J_O()
 {
 parent.sub_menu.location="blank.htm";
-parent.main.location="http://dwaynejezowain.blogspot.co.uk/";
-
+parent.main.location="blank.htm";
+<a class="popup" href="http://dwaynejezowain.blogspot.co.uk/">D_J_O Blog</a>
 }
 //-->
 
