@@ -1,8 +1,8 @@
 
 <!--
-function D_J_O()
+function STAFF()
 {
-parent.sub_menu.location="blank.htm";
+parent.sub_menu.location="staff.htm";
 parent.main.location="blank.htm";
 }
 //-->
