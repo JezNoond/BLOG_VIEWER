@@ -55,6 +55,14 @@ parent.main.location="blank.htm";
 }
 //-->
 
+<!--
+function FDA_MULTIMEDIA_YEAR_2_BLANK()
+{
+parent.sub_menu.location="FDA_MULTIMEDIA_YEAR_2_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
 $(document).ready(function() {
 $('.popup').click(function(event) {
     window.open($(this).attr("href"), "popupWindow", "left=280, top=90, width=1280, height=768,scrollbars=yes");
