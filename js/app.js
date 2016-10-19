@@ -1,9 +1,9 @@
 
 <!--
-function D_J_O()
+function STAFF()
 {
-parent.sub_menu.location="blank.htm";
-parent.main.location="http://dwaynejezowain.blogspot.co.uk/";
+parent.sub_menu.location="staff.htm";
+parent.main.location="blank.htm";
 }
 //-->
 
@@ -51,6 +51,14 @@ parent.main.location="blank.htm";
 function FDA_JOURNALISM_YEAR_1_BLANK()
 {
 parent.sub_menu.location="FDA_JOURNALISM_YEAR_1_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+<!--
+function FDA_MULTIMEDIA_YEAR_2_BLANK()
+{
+parent.sub_menu.location="FDA_MULTIMEDIA_YEAR_2_BLOGS.htm";
 parent.main.location="blank.htm";
 }
 //-->
