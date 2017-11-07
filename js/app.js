@@ -1,3 +1,28 @@
+<!--
+function UAL_YEAR_1_BLANK()
+{
+parent.sub_menu.location="UAL_YEAR_1_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+<!--
+function BTEC_YEAR_2_BLANK()
+{
+parent.sub_menu.location="BTEC_YEAR_2_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+<!--
+function UAL_STAFF()
+{
+parent.sub_menu.location="UAL_STAFF.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+
 
 <!--
 function STAFF()
