@@ -1,4 +1,20 @@
 <!--
+function UAL_YEAR_1_18_19_BLOGS_BLANK()
+{
+parent.sub_menu.location="UAL_YEAR_1_18_19_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+<!--
+function UAL_YEAR_2_18_19_BLOGS_BLANK()
+{
+parent.sub_menu.location="UAL_YEAR_2_18_19_BLOGS.htm";
+parent.main.location="blank.htm";
+}
+//-->
+
+<!--
 function UAL_YEAR_1_BLANK()
 {
 parent.sub_menu.location="UAL_YEAR_1_BLOGS.htm";
@@ -21,8 +37,6 @@ parent.sub_menu.location="UAL_STAFF.htm";
 parent.main.location="blank.htm";
 }
 //-->
-
-
 
 <!--
 function STAFF()
